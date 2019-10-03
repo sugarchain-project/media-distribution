@@ -1,6 +1,8 @@
 # media-distribution
 Media Distribution including logo, image, and raw files
 
+> Do ***NOT*** change the filename. If you change it, link can be broken.
+
 ### Logo
 1024px (original) https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/1024px.png
 
