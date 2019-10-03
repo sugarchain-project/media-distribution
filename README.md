@@ -1,7 +1,7 @@
 # media-distribution
 Media Distribution including logo, image, and raw files
 
-### LOGO
+### Logo
 
 1024px https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/1024px.png
 
@@ -11,3 +11,5 @@ Media Distribution including logo, image, and raw files
 
 200px https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/animation_284px.gif
 
+### Header
+4096x1556 https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/banner_4096x1556.png
