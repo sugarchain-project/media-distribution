@@ -14,4 +14,4 @@ Media Distribution including logo, image, and raw files
 4096x1556 https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/banner_4096x1556_white.png
 
 ### Animated GIF
-200px by Visual Novelz https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/animation_284px.gif
+284px by Visual Novelz https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/animation_284px.gif
