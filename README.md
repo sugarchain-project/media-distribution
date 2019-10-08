@@ -15,3 +15,8 @@ Media Distribution including logo, image, and raw files
 
 ### Animated GIF
 284px by Visual Novelz https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/animation_284px.gif
+
+### Artwork
+2800x1820 by Kez#3857@Discord https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/art_2800x1820.png
+
+1400x910 by Kez#3857@Discord https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/art_1400x910.png
