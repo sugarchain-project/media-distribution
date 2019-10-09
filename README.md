@@ -20,3 +20,5 @@ Media Distribution including logo, image, and raw files
 2800x1820 by Kez#3857@Discord https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/art_2800x1820.png
 
 1400x910 by Kez#3857@Discord https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/art_1400x910.png
+
+2638x1820 by Kez#3857@Discord https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/art_2638x1820.png
