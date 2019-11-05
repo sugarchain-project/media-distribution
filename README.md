@@ -18,3 +18,8 @@ Media Distribution including logo, image, and raw files
 
 ### Artwork
 2638x1820 by Kez#3857@Discord https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/art_2638x1820.png
+
+--------
+
+### MEME
+by cryptozeny https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/meme/meme-1.png
