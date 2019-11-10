@@ -23,3 +23,5 @@ Media Distribution including logo, image, and raw files
 
 ### MEME
 by cryptozeny https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/meme/meme-1.png
+
+orphaned_block by cryptozeny https://raw.githubusercontent.com/sugarchain-project/media-distribution/master/meme/meme-2-orphaned_block.png
